@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirito139
-- 👀 I’m interested in computers, space(espescially Mars), robots, ai, tech, boardgames.
+- 👀 I’m interested in computers, space(especially Mars), robots, ai, tech, boardgames.
 - 🌱 I’m currently learning algorithims on coursera, python, swift, algebra 1.
 - 💞️ I’m looking to collaborate on beginner-friendly projects, mostly in python or swift, maybe html, css.
 - 📫 How to reach me: lenniermulder44@gmail.com.
