@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, space(Mars), robots and ai, programming(duh) and anime.
 - 🌱 I’m currently learning nand2tetris and algorithims on coursera, python, swift, and algebra 1.
 - 💞️ I’m looking to collaborate on beginner-friendly projects in python or swift.
-- 📫 How to reach me:  Scratch: https://is.gd/IEB4th YouTube: https://is.gd/fg2PLO Discord: https://is.gd/VstCFR Adacraft: https://is.gd/bwIGeh.
+- 📫 How to reach me:  Scratch: https://is.gd/IEB4th YouTube: https://is.gd/fg2PLO Discord(mostly inactive): https://is.gd/VstCFR Adacraft: https://is.gd/bwIGeh. Reddit: https://www.reddit.com/user/Kirito139_
 - 
 
 <!---
