@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, space(Mars), robots and ai, programming(duh) and anime.
 - 🌱 I’m currently learning nand2tetris on coursera, python, swift, and High school Geometry.
 - 💞️ I’m looking to collaborate on beginner-friendly projects in python or swift.
-- 📫 How to reach me:  [Email](lmulder@duck.com), [Reddit](https://is.gd/nOUjUu), [Scratch (inactive)](https://is.gd/IEB4th)
+- 📫 How to reach me:  [Email](lmulder@duck.com), [Reddit](https://is.gd/nOUjUu)
 - 
 
 <!---
