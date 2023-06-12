@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirito139
-- 👀 I’m interested in computers, space(Mars), robots and ai, programming(duh) and anime.
-- 🌱 I’m currently learning nand2tetris on coursera, python, swift, and High school Geometry.
+- 👀 I’m interested in computers, space, robots and ai, programming and anime.
+- 🌱 I’m currently learning nand2tetris on coursera, python, and swift.
 - 💞️ I’m looking to collaborate on beginner-friendly projects in python or swift.
 - 📫 How to reach me:  [Email](lmulder@duck.com), [Reddit](https://is.gd/nOUjUu)
 - 
