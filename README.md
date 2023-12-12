@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: lenniermulder@icloud.com (if you do not receive a reply within 3 days, your message may have gotten lost in my sea of unread messages, and you should try resending.)
+- 📫 How to reach me: Discord: kirito139 Email: lenniermulder@icloud.com (if you do not receive a reply within 3 days, your email may have gotten lost in my sea of unread messages, and you should try resending.)
 - 😄 Pronouns: default male.
 - ⚡ Fun fact: I run cross country.
 ```
