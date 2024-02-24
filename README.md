@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on homew*rk.
-- 🌱 I’m currently learning at SF Lowell High.
+- 🌱 I’m currently learning at Lowell High SF.
 - 📫 How to reach me: Discord: kirito139 Email: lenniermulder@icloud.com (if you do not receive a reply within 3 days, your email may have gotten lost in my sea of unread messages, and you should try resending.)
 - 😄 Pronouns: default male.
-- ⚡ Fun fact: I run cross country.
+- ⚡ Fun fact: I run cross country and distance track.
 ```
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.12
