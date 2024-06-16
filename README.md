@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on homew*rk.
-- 🌱 I’m currently learning at Lowell High SF.
-- 📫 How to reach me: Discord: kirito139 Email: lenniermulder@icloud.com (if you do not receive a reply within 3 days, your email may have gotten lost in my sea of unread messages, and you should try resending.)
+- 🔭 I’m currently working on ARM (Autonomous Robotic Manipulator).
+- 🌱 I’m currently learning FreeCAD and Python 3.
+- 🤔 I’m looking for help with ARM (Soon™)
+- 📫 How to reach me:  [lmulder@duck.com](mailto:lmulder@duck.com)  (if you do not receive a reply within 3 days, your email may have gotten lost in my sea of unread messages.)
 - 😄 Pronouns: default male.
-- ⚡ Fun fact: I run cross country and distance track.
+- ⚡ Fun fact: I run cross country but my track event is the 800m.
 ```
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.12
