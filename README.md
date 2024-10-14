@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently (supposed to be) working on homew*rk.
 - 🌱 I’m currently learning Java.
-- 💬 Ask me about heavy metal 🤘🤘.
+- 💬 Ask me about metal 🤘🤘.
 - 📫 How to reach me:  kirito139 (Discord)/[lmulder@duck.com](mailto:lmulder@duck.com) (if you do not receive a reply within 3 days, your email may have gotten lost in my sea of unread messages.)
 - 😄 Pronouns: default male.
 - ⚡ Fun fact: I run cross country but my track event is the 800m.
