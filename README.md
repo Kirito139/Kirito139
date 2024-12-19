@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Geek;PROcrastinator;Webmaster;Metalhead;Apple+fan;Vimmer)](https://git.io/typing-svg)
 ### Hi there 👋
 
 - 🔭 I’m currently (supposed to be) working on homew*rk.
